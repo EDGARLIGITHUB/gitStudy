@@ -4,3 +4,4 @@ second commit
 commit in github before idea push
 third commit
 forth commit amend
+commit in branch dev
